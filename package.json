@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/nhcarrigan/general-documentation#readme",
   "dependencies": {
-    "docsify-cli": "^4.4.3"
+    "docsify-cli": "^5.0.0"
   },
   "devDependencies": {
     "markdownlint": "0.25.1",
